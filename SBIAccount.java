@@ -4,6 +4,7 @@ public class SBIAccount {
 	int acctNo;
 	String mobile;
 	int balance;
+
 	public SBIAccount(String name, int acctNo, String mobile, int balance) {
 		super();
 		this.name = name;
